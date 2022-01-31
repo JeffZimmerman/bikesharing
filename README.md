@@ -18,7 +18,7 @@ A number of clear patterns emerged in creating visualizations out of Citibike da
 - One demographic data point that did not make it into the visualizations is birth year. Filtering the data by gender did not show significant differences in use patterns for time of day or day of the week. It would be worth examining whether age makes any difference in terms of the timing of bike trips. Additionally, filtering by age in a mapping of bike use might show a greater number of middle-aged users commuting to Midtown for work, and other age groups taking trips more for other purposes.
 - In considering the feasibility of a bike-sharing program in a smaller city like Des Moines, differences in physical infrastructure might make a big difference. In looking again just at New York, additional visualizations could integrate subway maps and station usage data from the MTA, as well as maps of designated bike routes. The mapping of greater bike-sharing trips in certain areas may owe a lot to these infrastructural allowances, for example the high usage along the west side of lower Manhattan, where a designated bike route follows a long stretch of the Hudson river.
 
-[The full story is shown on the Tabeau dashboard](https://public.tableau.com/app/profile/jeffrey.zimmerman8067/viz/CitibikeVisualizations_16428757970300/ACitibikeUsageStory)
+[The full story is shown on the Tableau dashboard](https://public.tableau.com/app/profile/jeffrey.zimmerman8067/viz/CitibikeVisualizations_16428757970300/ACitibikeUsageStory)
 
 Example visualization:
 ![A Citibike Usage Story](https://user-images.githubusercontent.com/91562577/151832334-0975f75e-d883-4ba8-b40c-e8f6f97669de.png)
