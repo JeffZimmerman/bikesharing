@@ -1,4 +1,4 @@
-# bikesharing
+# Bikesharing: A Citibike Usage Story
 
 ## Overview
 This project utilized Tableau to analyze Citibike data from New York City and generate multiple visualizations. The broader goal was to consider the potential for a bike-sharing program in Des Moines, Iowa.  
