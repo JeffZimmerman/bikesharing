@@ -10,8 +10,8 @@ Demographic information of Citibike users, including identifiers such as gender 
 ## Summary
 
 
-[Link to dashboard:](https://public.tableau.com/app/profile/jeffrey.zimmerman8067/viz/CitibikeVisualizations_16428757970300/ACitibikeUsageStory)
+[Link to dashboard](https://public.tableau.com/app/profile/jeffrey.zimmerman8067/viz/CitibikeVisualizations_16428757970300/ACitibikeUsageStory)
 
- (https://public.tableau.com/app/profile/jeffrey.zimmerman8067/viz/CitibikeVisualizations_16428757970300/ACitibikeUsageStory).
+
 
 ![A Citibike Usage Story](https://user-images.githubusercontent.com/91562577/151832334-0975f75e-d883-4ba8-b40c-e8f6f97669de.png)
